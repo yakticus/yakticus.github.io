@@ -1,0 +1,326 @@
+{
+  "basics": {
+    "name": "Julie Pitt",
+    "label": "Engineering Manager // Senior Software Engineer // Entrepreneur // Speaker",
+    "picture": "headshot.jpg",
+    "email": "julie@yakticus.com",
+    "website": "http://yakticus.github.io/",
+    "summary": "<p>WHAT is usually more significant than HOW. When building something new, I often use the \"what\" to shine a light on the extraneous, overly complex or mis-aligned with the goal.</p><br/><p>Here's <b>the tl;dr</b> on me: 15 years combined experience building teams, scalable APIs and distributed systems; most recently co-founded startup to bring autonomous agents with \"common sense\" intelligence into the world; built streaming service at Netflix during initial device and international roll-outs; international speaker; Scala, Node.js, AWS and many more</p>",
+    "location": {
+      "countryCode": "US",
+      "region": "San Francisco Bay Area, California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "yakticus",
+        "url": "http://twitter.com/yakticus"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Julie Pitt",
+        "url": "https://www.linkedin.com/in/juliepitt"
+      },
+      {
+        "network": "github",
+        "username": "yakticus",
+        "url": "https://github.com/yakticus"
+      },
+      {
+        "network": "StackOverflow",
+        "username": "julie",
+        "url": "https://stackoverflow.com/users/8217/julie"
+      }
+    ]
+  },
+  "work": [{
+    "company": "Order of Magnitude Labs",
+    "position": "Co-founder",
+    "website": "http://oomagnitude.com",
+    "startDate": "2014-03-01",
+    "summary": "<b>What</b>: Introduce autonomous agents that learn \"common sense\" to problems that today’s smartest machines can’t solve<br/><br/><b>How:</b>",
+    "highlights": [
+      "After a period of bootstrapping, secured seed funding from a major VC",
+      "Through research and experimentation, uncovered the limits of today's deep learning technologies in solving \"common sense\" problems",
+      "Developed novel IP enabling autonomous agents to learn and act in messy and dynamic environments despite ambiguity"
+    ]
+  },
+{
+    "company": "Lyve Minds",
+    "position": "Senior Engineering Manager",
+    "startDate": "2012-12-01",
+    "endDate": "2014-02-21",
+    "summary": "<b>What</b>: Bring forgotten memories to life and ensure that new ones are safe and accessible<br/><br/><b>How:</b>",
+    "highlights": [
+      "Hired and led service engineering team, with emphasis on client integration, availability, fault tolerance and scale",
+      "Built AWS-deployed services and protocols in Scala",
+      "Standardized protocol and server stack to minimize design, build and release friction"
+    ]
+  },
+{
+    "company": "StumbleUpon",
+    "position": "Tech lead/manager, recommendations infrastructure",
+    "startDate": "2012-08-01",
+    "endDate": "2012-12-01",
+    "summary": "<b>What</b>: Introduce people to new ideas across the web that extend beyond their immediate social bubbles.<br/><br/><b>How:</b>",
+    "highlights": [
+      "Hired a small engineering team to re-architect StumbleUpon's recommendations infrastructure in under 3 months",
+      "Built an initial proof-of-concept prototype in Scala"
+    ]
+  },
+{
+    "company": "Netflix",
+    "position": "Manager, streaming server engineering",
+    "startDate": "2010-07-01",
+    "endDate": "2012-08-01",
+    "summary": "<b>What</b>: Connect people worldwide to movies they love.<br/><br/><b>How:</b>",
+    "highlights": [
+      "Managed a medium-sized team of engineers responsible for developing the application tier that drives Netflix streaming playback",
+      "Launched streaming service in Canada, Latin America and the UK",
+      "Rapid innovation on major streaming platforms including PS3, XBox, Wii, AppleTV, Android and iOS while maintaining quality service for hundreds of consumer electronics device models",
+      "Scaled the team from 2 to 8 engineers as server traffic increased from 500 million to 3.5 billion requests per day",
+      "Led a cross-functional effort to re-architect handling of credentials on streaming devices",
+      "Provided broad streaming domain and technical expertise to many teams"
+    ]
+  },
+{
+    "company": "Netflix",
+    "position": "Senior Software Engineer",
+    "startDate": "2008-12-01",
+    "endDate": "2010-07-01",
+    "summary": "<b>What</b>: Connect people to movies they love.<br/><br/><b>How:</b>",
+    "highlights": [
+      "Developed scalable Java server application code to support explosive growth in Netflix streaming volume and device breadth",
+      "Built server functionality for first and second generation streaming app on the PS3",
+      "Integrated server DRM component and protocol enhancements for the first ever Wii console streaming app",
+      "Introduced server delivery of subtitles and alternate language tracks to Netflix streaming devices",
+      "Added 1.5 years of life to the infrastructure delivering customers’ Recently Watched activity through scalability enhancements and data store partitioning"
+    ]
+  },
+{
+    "company": "NASA Ames Research Center",
+    "position": "Senior Software Engineer",
+    "startDate": "2008-07-01",
+    "endDate": "2008-12-01",
+    "summary": "<b>What</b>: As part of the Constellation program, bring the International Space Station up-to-date, and eventually bring humans to the Moon and to Mars.<br/><br/><b>How:</b>",
+    "highlights": [
+      "Designed and developed RDF triple store persistence API in Java",
+      "Cross-functional liason between development and ontology modeling teams",
+      "Evangelized and implemented development practices on the team, including TDD, continuous integration, use of Subversion, Hudson, Maven and Artifactory",
+      "Documented critical components on the team Confluence wiki"
+    ]
+  },
+{
+    "company": "Lawrence Livermore National Laboratory",
+    "position": "Software Engineer, project lead",
+    "startDate": "2001-06-01",
+    "endDate": "2008-07-01",
+    "summary": "<b>What</b>: Support various missions ranging from follow-on research to the Human Genome Project to Biodefense in the wake of 9/11.<br/><br/><b>How:</b>",
+    "highlights": [
+      "Built Java applications to bring together disparate structured and unstructured data sources for use by scientists and analysts",
+      "Built PERL/CGI applications to process and make accessible data underpinning the Human Genome Project and beyond"
+    ]
+  }],
+  "volunteer": [{
+    "organization": "Tri-Valley Coder Dojo",
+    "position": "Mentor",
+    "website": "https://trivalleycoderdojo.wordpress.com",
+    "startDate": "2015-01-01",
+    "summary": "Adult mentor for kids in coding club, covering topics ranging from Scratch to web development to Python"
+  },
+  {
+    "organization": "ScalaBridge",
+    "position": "Mentor",
+    "website": "http://www.scalabridge.org",
+    "startDate": "2017-02-01",
+    "summary": "Mentor for programmers who wish to learn Scala. ScalaBridge encourages women to learn Scala and advance careers in software development."
+  }],
+  "education": [
+    {
+    "institution": "Coursera",
+    "studyType": "continuing education",
+    "area": "Computer Science",
+    "startDate": "2012-11-01",
+    "courses": [
+      "Functional Programming Principles in Scala",
+      "Principles of Reactive Programming",
+      "Machine Learning"
+    ]
+  },
+  {
+    "institution": "University of California, Davis",
+    "area": "Applied Mathematics, minor in Computer Science",
+    "studyType": "Bachelor of Science",
+    "startDate": "1999-09-20",
+    "endDate": "2002-03-20",
+    "gpa": "3.64"
+  },
+  {
+    "institution": "University of California, Davis",
+    "area": "Computer Science",
+    "studyType": "coursework for Master of Science",
+    "startDate": "2005-09-20",
+    "endDate": "2007-03-20",
+    "gpa": "4.0",
+    "courses": [
+      "Algorithms", 
+      "Computational Structural Biology", 
+      "Operating Systems", 
+      "Programming Languages"
+    ]
+  }],
+  "publications": [{
+    "name": "System and method for detecting active streams using a heartbeat and secure stop mechanism (patent)",
+    "publisher": "US Patent",
+    "releaseDate": "2014-01-16",
+    "website": "https://www.google.com/patents/US20140020119"
+  },
+  {
+    "name": "Data synchronization in a storage network (patent)",
+    "publisher": "US Patent Application",
+    "releaseDate": "2013-12-20",
+    "website": "https://patents.google.com/patent/US20140195482A1"
+  },
+  {
+    "name": "If I only had a Brain ... in Scala (talk)",
+    "publisher": "ScalaDays 2015",
+    "releaseDate": "2015-03-01",
+    "website": "https://www.youtube.com/watch?v=ddCgUOJqE64"
+  },
+    {
+    "name": "Scala.js Confessions of a Backend Engineer (talk)",
+    "publisher": "Scala by the Bay 2015",
+    "releaseDate": "2015-08-01",
+    "website": "https://www.youtube.com/watch?v=PQuDD_EHM9I"
+  },
+    {
+    "name": "Past, present and future of Scala (panel)",
+    "publisher": "Scala by the Bay 2015",
+    "releaseDate": "2015-08-01",
+    "website": "https://www.youtube.com/watch?v=xUWNcL7NRxg"
+  },  
+  {
+    "name": "The fun of functional programming (panel)",
+    "publisher": "Scale by the Bay 2017",
+    "releaseDate": "2017-11-18",
+    "website": "https://www.youtube.com/watch?v=Cuuet1WMHUI"
+  },
+  {
+    "name": "Rethinking data for intelligent computing (talk)",
+    "publisher": "GOTO Copenhagen 2015",
+    "releaseDate": "2015-10-01",
+    "website": "https://www.youtube.com/watch?v=WVck7IPOzFs"
+  },
+    {
+    "name": "What the brain can teach us about software engineering (talk)",
+    "publisher": "GOTO Copenhagen 2016",
+    "releaseDate": "2016-10-01",
+    "website": "https://www.youtube.com/watch?v=5whMQwyW9Zw"
+  },
+    {
+    "name": "How and when to explore: an engineer's guide (talk)",
+    "publisher": "GOTO Chicago 2017",
+    "releaseDate": "2017-05-01",
+    "website": "https://www.youtube.com/watch?v=rwWQe4vTbHI"
+  },
+    {
+    "name": "Machines that learn through action: the future of AI (talk)",
+    "publisher": "YOW! Australia 2017",
+    "releaseDate": "2017-12-01",
+    "website": "http://melbourne.yowconference.com.au/profile/?id=julie-pitt"
+  },
+    {
+    "name": "Making failure matter (blog)",
+    "publisher": "Order of Magnitude Labs blog",
+    "releaseDate": "2014-03-21",
+    "website": "https://oomagnitude.com/2014/03/21/making-failure-matter"
+  },
+    {
+    "name": "Layers of failure, with a side of bacon (blog)",
+    "publisher": "Order of Magnitude Labs blog",
+    "releaseDate": "2014-04-03",
+    "website": "https://oomagnitude.com/2014/04/03/layers-of-failure-with-a-side-of-bacon"
+  }
+],
+
+  
+  "skills": [
+    {
+    "name": "Management",
+    "level": "Advanced",
+    "keywords": [
+      "hiring",
+      "cross-functional project management",
+      "building orgs"
+    ]
+  },
+  {
+    "name": "Functional programming",
+    "level": "Master",
+    "keywords": [
+      "Scala"
+    ]
+  },
+{
+    "name": "API design",
+    "level": "Master",
+    "keywords": [
+      "REST",
+      "JSON",
+      "Protobuf",
+      "XML"
+    ]
+  },
+{
+    "name": "Distributed systems",
+    "level": "Master",
+    "keywords": [
+      "AWS",
+      "EC2",
+      "Reactive paradigm",
+      "Akka",
+      "Finagle"
+    ]
+  },
+{
+    "name": "Web & full stack development",
+    "level": "Intermediate",
+    "keywords": [
+      "Node.js",
+      "JavaScript",
+      "Scala.js"
+    ]
+  },
+    {
+    "name": "Public speaking",
+    "level": "Advanced",
+    "keywords": [
+      "tech conferences"
+    ]
+  },
+  {
+    "name": "Machine Learning",
+    "level": "Intermediate",
+    "keywords": [
+      "probability theory",
+      "information theory",
+      "Bayesian methods",
+      "deep neural networks",
+      "linear algebra"
+    ]
+  },
+  {
+    "name": "Past & Hobby",
+    "level": "Various",
+    "keywords": [
+      "Java",
+      "RDBMS",
+      "MySQL",
+      "Oracle",
+      "Arduino",
+      "Python",
+      "PERL"
+    ]
+  }
+]
+}
